@@ -1,0 +1,77 @@
+[{
+  "_id": {
+    "$oid": "68f2ce77179590d83c4f9b17"
+  },
+  "name": "Human",
+  "description": "Ser humano comum"
+},
+{
+  "_id": {
+    "$oid": "68f2d12b179590d83c4f9b31"
+  },
+  "name": "Human",
+  "description": "Espécie humana comum."
+},
+{
+  "_id": {
+    "$oid": "68f2d12b179590d83c4f9b32"
+  },
+  "name": "Demi-god",
+  "description": "Ser metade deus, metade mortal."
+},
+{
+  "_id": {
+    "$oid": "68f2d12b179590d83c4f9b33"
+  },
+  "name": "Cybertronian",
+  "description": "Robôs sencientes do planeta Cybertron."
+},
+{
+  "_id": {
+    "$oid": "68f2d12b179590d83c4f9b34"
+  },
+  "name": "Hylian",
+  "description": "Raça humanoide com orelhas pontudas do universo Zelda."
+},
+{
+  "_id": {
+    "$oid": "68f2d12b179590d83c4f9b35"
+  },
+  "name": "Hedgehog",
+  "description": "Ouriço antropomórfico com habilidades sobre-humanas."
+},
+{
+  "_id": {
+    "$oid": "68f2d12b179590d83c4f9b36"
+  },
+  "name": "Saiyan",
+  "description": "Espécie guerreira extraterrestre do universo Dragon Ball."
+},
+{
+  "_id": {
+    "$oid": "68f2d12b179590d83c4f9b37"
+  },
+  "name": "Titan",
+  "description": "Ser cósmico de poder imenso."
+},
+{
+  "_id": {
+    "$oid": "68f2d12b179590d83c4f9b38"
+  },
+  "name": "Amazonian Demigoddess",
+  "description": "Guerreira amazona dotada de poderes divinos."
+},
+{
+  "_id": {
+    "$oid": "68f2d12b179590d83c4f9b39"
+  },
+  "name": "Yoda Species",
+  "description": "Espécie misteriosa a que pertence o Mestre Yoda."
+},
+{
+  "_id": {
+    "$oid": "68f2d12b179590d83c4f9b3a"
+  },
+  "name": "Android",
+  "description": "Forma de vida sintética com aparência humana."
+}]

@@ -1,0 +1,707 @@
+[{
+  "_id": {
+    "$oid": "68f2d4aff4c8c888367394a9"
+  },
+  "name": "Kratos",
+  "power_level": 99,
+  "debut_year": 2005,
+  "universe_id": {
+    "$oid": "68f2d0c4179590d83c4f9b1c"
+  },
+  "species_id": {
+    "$oid": "68f2d12b179590d83c4f9b32"
+  },
+  "equipment_ids": [
+    {
+      "$oid": "68f2d16f179590d83c4f9b3b"
+    },
+    {
+      "$oid": "68f2d16f179590d83c4f9b3c"
+    },
+    {
+      "$oid": "68f2d16f179590d83c4f9b3d"
+    }
+  ],
+  "movie_ids": []
+},
+{
+  "_id": {
+    "$oid": "68f2d4aff4c8c888367394aa"
+  },
+  "name": "Lara croft",
+  "power_level": 78,
+  "debut_year": 1996,
+  "universe_id": {
+    "$oid": "68f2d0c4179590d83c4f9b1d"
+  },
+  "species_id": {
+    "$oid": "68f2ce77179590d83c4f9b17"
+  },
+  "equipment_ids": [
+    {
+      "$oid": "68f2d16f179590d83c4f9b3e"
+    },
+    {
+      "$oid": "68f2d16f179590d83c4f9b3f"
+    },
+    {
+      "$oid": "68f2d16f179590d83c4f9b40"
+    }
+  ],
+  "movie_ids": [
+    {
+      "$oid": "68f2d1c5179590d83c4f9b71"
+    },
+    {
+      "$oid": "68f2d1c5179590d83c4f9b72"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68f2d4b0f4c8c888367394ab"
+  },
+  "name": "Geralt of rivia",
+  "power_level": 0,
+  "debut_year": 2007,
+  "universe_id": {
+    "$oid": "68f2d0c4179590d83c4f9b1e"
+  },
+  "species_id": {
+    "$oid": "68f2ce77179590d83c4f9b17"
+  },
+  "equipment_ids": [
+    {
+      "$oid": "68f2d16f179590d83c4f9b41"
+    },
+    {
+      "$oid": "68f2d16f179590d83c4f9b42"
+    }
+  ],
+  "movie_ids": [
+    {
+      "$oid": "68f2d1c5179590d83c4f9b73"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68f2d4b0f4c8c888367394ac"
+  },
+  "name": "Naruto uzumaki",
+  "power_level": 90,
+  "debut_year": 1999,
+  "universe_id": {
+    "$oid": "68f2d0c4179590d83c4f9b1f"
+  },
+  "species_id": {
+    "$oid": "68f2ce77179590d83c4f9b17"
+  },
+  "equipment_ids": [
+    {
+      "$oid": "68f2d16f179590d83c4f9b43"
+    },
+    {
+      "$oid": "68f2d16f179590d83c4f9b44"
+    },
+    {
+      "$oid": "68f2d16f179590d83c4f9b45"
+    }
+  ],
+  "movie_ids": [
+    {
+      "$oid": "68f2d1c5179590d83c4f9b74"
+    },
+    {
+      "$oid": "68f2d1c5179590d83c4f9b75"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68f2d4b0f4c8c888367394ad"
+  },
+  "name": "Son Goku",
+  "power_level": 0,
+  "debut_year": 1984,
+  "universe_id": null,
+  "species_id": {
+    "$oid": "68f2d12b179590d83c4f9b36"
+  },
+  "equipment_ids": [
+    {
+      "$oid": "68f2d16f179590d83c4f9b46"
+    },
+    {
+      "$oid": "68f2d16f179590d83c4f9b47"
+    }
+  ],
+  "movie_ids": [
+    {
+      "$oid": "68f2d1c5179590d83c4f9b76"
+    },
+    {
+      "$oid": "68f2d1c5179590d83c4f9b77"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68f2d4b0f4c8c888367394ae"
+  },
+  "name": "Leia Organa",
+  "power_level": 75,
+  "debut_year": 1977,
+  "universe_id": {
+    "$oid": "68f2cd7c024cab704b401c7b"
+  },
+  "species_id": {
+    "$oid": "68f2ce77179590d83c4f9b17"
+  },
+  "equipment_ids": [
+    {
+      "$oid": "68f2d16f179590d83c4f9b48"
+    },
+    {
+      "$oid": "68f2d16f179590d83c4f9b49"
+    }
+  ],
+  "movie_ids": [
+    {
+      "$oid": "68f2cf4b179590d83c4f9b1a"
+    },
+    {
+      "$oid": "68f2cf4b179590d83c4f9b1b"
+    },
+    {
+      "$oid": "68f2d1c5179590d83c4f9b78"
+    },
+    {
+      "$oid": "68f2d1c5179590d83c4f9b79"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68f2d4b0f4c8c888367394af"
+  },
+  "name": "Optimus Prime",
+  "power_level": 0,
+  "debut_year": 1984,
+  "universe_id": {
+    "$oid": "68f2cd7c024cab704b401c7c"
+  },
+  "species_id": {
+    "$oid": "68f2d12b179590d83c4f9b33"
+  },
+  "equipment_ids": [
+    {
+      "$oid": "68f2d16f179590d83c4f9b4a"
+    },
+    {
+      "$oid": "68f2d16f179590d83c4f9b4b"
+    }
+  ],
+  "movie_ids": [
+    {
+      "$oid": "68f2d1c5179590d83c4f9b7a"
+    },
+    {
+      "$oid": "68f2d1c5179590d83c4f9b7b"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68f2d4b1f4c8c888367394b0"
+  },
+  "name": "Ash ketchum",
+  "power_level": 55,
+  "debut_year": 1997,
+  "universe_id": {
+    "$oid": "68f2cd7c024cab704b401c7d"
+  },
+  "species_id": {
+    "$oid": "68f2ce77179590d83c4f9b17"
+  },
+  "equipment_ids": [
+    {
+      "$oid": "68f2d16f179590d83c4f9b3f"
+    },
+    {
+      "$oid": "68f2d16f179590d83c4f9b4c"
+    },
+    {
+      "$oid": "68f2d16f179590d83c4f9b4d"
+    }
+  ],
+  "movie_ids": [
+    {
+      "$oid": "68f2d1c5179590d83c4f9b7c"
+    },
+    {
+      "$oid": "68f2d1c5179590d83c4f9b7d"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68f2d4b1f4c8c888367394b1"
+  },
+  "name": "Sonic the hedgehog",
+  "power_level": 0,
+  "debut_year": 1991,
+  "universe_id": {
+    "$oid": "68f2cd7c024cab704b401c7e"
+  },
+  "species_id": {
+    "$oid": "68f2d12b179590d83c4f9b35"
+  },
+  "equipment_ids": [
+    {
+      "$oid": "68f2d16f179590d83c4f9b4e"
+    },
+    {
+      "$oid": "68f2d16f179590d83c4f9b4f"
+    }
+  ],
+  "movie_ids": [
+    {
+      "$oid": "68f2d1c5179590d83c4f9b7e"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68f2d4b1f4c8c888367394b2"
+  },
+  "name": "Link",
+  "power_level": 82,
+  "debut_year": 1986,
+  "universe_id": {
+    "$oid": "68f2cd7c024cab704b401c7f"
+  },
+  "species_id": {
+    "$oid": "68f2d12b179590d83c4f9b34"
+  },
+  "equipment_ids": [
+    {
+      "$oid": "68f2d16f179590d83c4f9b3d"
+    },
+    {
+      "$oid": "68f2d16f179590d83c4f9b50"
+    },
+    {
+      "$oid": "68f2d16f179590d83c4f9b51"
+    }
+  ],
+  "movie_ids": []
+},
+{
+  "_id": {
+    "$oid": "68f2d4b1f4c8c888367394b3"
+  },
+  "name": "Samus Aran",
+  "power_level": 84,
+  "debut_year": 1986,
+  "universe_id": {
+    "$oid": "68f2d0c4179590d83c4f9b26"
+  },
+  "species_id": {
+    "$oid": "68f2ce77179590d83c4f9b17"
+  },
+  "equipment_ids": [
+    {
+      "$oid": "68f2d16f179590d83c4f9b52"
+    },
+    {
+      "$oid": "68f2d16f179590d83c4f9b53"
+    },
+    {
+      "$oid": "68f2d16f179590d83c4f9b54"
+    }
+  ],
+  "movie_ids": []
+},
+{
+  "_id": {
+    "$oid": "68f2d4b1f4c8c888367394b4"
+  },
+  "name": "Ezio Auditore",
+  "power_level": 0,
+  "debut_year": 2009,
+  "universe_id": null,
+  "species_id": {
+    "$oid": "68f2ce77179590d83c4f9b17"
+  },
+  "equipment_ids": [
+    {
+      "$oid": "68f2d16f179590d83c4f9b55"
+    },
+    {
+      "$oid": "68f2d16f179590d83c4f9b56"
+    },
+    {
+      "$oid": "68f2d16f179590d83c4f9b57"
+    },
+    {
+      "$oid": "68f2d16f179590d83c4f9b6f"
+    }
+  ],
+  "movie_ids": []
+},
+{
+  "_id": {
+    "$oid": "68f2d4b1f4c8c888367394b5"
+  },
+  "name": "Rick Sanchez",
+  "power_level": {
+    "$numberDouble": "NaN"
+  },
+  "debut_year": 2013,
+  "universe_id": {
+    "$oid": "68f2d0c4179590d83c4f9b28"
+  },
+  "species_id": {
+    "$oid": "68f2ce77179590d83c4f9b17"
+  },
+  "equipment_ids": [
+    {
+      "$oid": "68f2d16f179590d83c4f9b58"
+    },
+    {
+      "$oid": "68f2d16f179590d83c4f9b59"
+    }
+  ],
+  "movie_ids": [
+    {
+      "$oid": "68f2d1c5179590d83c4f9b80"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68f2d4b2f4c8c888367394b6"
+  },
+  "name": "Morty smith",
+  "power_level": 45,
+  "debut_year": 2013,
+  "universe_id": {
+    "$oid": "68f2d0c4179590d83c4f9b28"
+  },
+  "species_id": {
+    "$oid": "68f2ce77179590d83c4f9b17"
+  },
+  "equipment_ids": [
+    {
+      "$oid": "68f2d16f179590d83c4f9b5a"
+    }
+  ],
+  "movie_ids": [
+    {
+      "$oid": "68f2d1c5179590d83c4f9b80"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68f2d4b2f4c8c888367394b7"
+  },
+  "name": "Aloy",
+  "power_level": 0,
+  "debut_year": 2017,
+  "universe_id": {
+    "$oid": "68f2d0c4179590d83c4f9b29"
+  },
+  "species_id": {
+    "$oid": "68f2ce77179590d83c4f9b17"
+  },
+  "equipment_ids": [
+    {
+      "$oid": "68f2d16f179590d83c4f9b51"
+    },
+    {
+      "$oid": "68f2d16f179590d83c4f9b5b"
+    },
+    {
+      "$oid": "68f2d16f179590d83c4f9b5c"
+    }
+  ],
+  "movie_ids": []
+},
+{
+  "_id": {
+    "$oid": "68f2d4b2f4c8c888367394b8"
+  },
+  "name": "Cloud strife",
+  "power_level": 87,
+  "debut_year": 1997,
+  "universe_id": {
+    "$oid": "68f2d0c4179590d83c4f9b2a"
+  },
+  "species_id": {
+    "$oid": "68f2ce77179590d83c4f9b17"
+  },
+  "equipment_ids": [
+    {
+      "$oid": "68f2d16f179590d83c4f9b5d"
+    },
+    {
+      "$oid": "68f2d16f179590d83c4f9b5e"
+    }
+  ],
+  "movie_ids": []
+},
+{
+  "_id": {
+    "$oid": "68f2d4b2f4c8c888367394b9"
+  },
+  "name": "Ellie",
+  "power_level": 0,
+  "debut_year": 2013,
+  "universe_id": {
+    "$oid": "68f2d0c4179590d83c4f9b2b"
+  },
+  "species_id": {
+    "$oid": "68f2ce77179590d83c4f9b17"
+  },
+  "equipment_ids": [
+    {
+      "$oid": "68f2d16f179590d83c4f9b5f"
+    },
+    {
+      "$oid": "68f2d16f179590d83c4f9b60"
+    },
+    {
+      "$oid": "68f2d16f179590d83c4f9b61"
+    }
+  ],
+  "movie_ids": [
+    {
+      "$oid": "68f2d1c5179590d83c4f9b82"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68f2d4b2f4c8c888367394ba"
+  },
+  "name": "Joel miller",
+  "power_level": 71,
+  "debut_year": 2013,
+  "universe_id": {
+    "$oid": "68f2d0c4179590d83c4f9b2b"
+  },
+  "species_id": {
+    "$oid": "68f2ce77179590d83c4f9b17"
+  },
+  "equipment_ids": [
+    {
+      "$oid": "68f2d16f179590d83c4f9b62"
+    },
+    {
+      "$oid": "68f2d16f179590d83c4f9b63"
+    }
+  ],
+  "movie_ids": []
+},
+{
+  "_id": {
+    "$oid": "68f2d4b3f4c8c888367394bb"
+  },
+  "name": "Master yoda",
+  "power_level": 0,
+  "debut_year": 1980,
+  "universe_id": {
+    "$oid": "68f2cd7c024cab704b401c7b"
+  },
+  "species_id": {
+    "$oid": "68f2d12b179590d83c4f9b39"
+  },
+  "equipment_ids": [
+    {
+      "$oid": "68f2d16f179590d83c4f9b64"
+    },
+    {
+      "$oid": "68f2d16f179590d83c4f9b65"
+    }
+  ],
+  "movie_ids": [
+    {
+      "$oid": "68f2d1c5179590d83c4f9b83"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68f2d4b3f4c8c888367394bc"
+  },
+  "name": "Tony Stark (Zombie)",
+  "power_level": 65,
+  "debut_year": 2021,
+  "universe_id": {
+    "$oid": "68f2d0c4179590d83c4f9b2c"
+  },
+  "species_id": {
+    "$oid": "68f2ce77179590d83c4f9b17"
+  },
+  "equipment_ids": [
+    {
+      "$oid": "68f2d16f179590d83c4f9b66"
+    },
+    {
+      "$oid": "68f2d16f179590d83c4f9b67"
+    }
+  ],
+  "movie_ids": [
+    {
+      "$oid": "68f2d1c5179590d83c4f9b84"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68f2d4b3f4c8c888367394bd"
+  },
+  "name": "Diana Prince",
+  "power_level": 0,
+  "debut_year": 1941,
+  "universe_id": {
+    "$oid": "68f2d0c4179590d83c4f9b2d"
+  },
+  "species_id": {
+    "$oid": "68f2d12b179590d83c4f9b38"
+  },
+  "equipment_ids": [
+    {
+      "$oid": "68f2d16f179590d83c4f9b3d"
+    },
+    {
+      "$oid": "68f2d16f179590d83c4f9b68"
+    },
+    {
+      "$oid": "68f2d16f179590d83c4f9b69"
+    }
+  ],
+  "movie_ids": [
+    {
+      "$oid": "68f2d1c5179590d83c4f9b87"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68f2d4b3f4c8c888367394be"
+  },
+  "name": "Thanos",
+  "power_level": 99,
+  "debut_year": 1973,
+  "universe_id": {
+    "$oid": "68f2d0c4179590d83c4f9b2c"
+  },
+  "species_id": {
+    "$oid": "68f2d12b179590d83c4f9b37"
+  },
+  "equipment_ids": [
+    {
+      "$oid": "68f2d16f179590d83c4f9b66"
+    },
+    {
+      "$oid": "68f2d16f179590d83c4f9b6a"
+    }
+  ],
+  "movie_ids": [
+    {
+      "$oid": "68f2d1c5179590d83c4f9b85"
+    },
+    {
+      "$oid": "68f2d1c5179590d83c4f9b86"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68f2d4b3f4c8c888367394bf"
+  },
+  "name": "Megaman",
+  "power_level": 0,
+  "debut_year": 1987,
+  "universe_id": {
+    "$oid": "68f2d0c4179590d83c4f9b2e"
+  },
+  "species_id": {
+    "$oid": "68f2d12b179590d83c4f9b3a"
+  },
+  "equipment_ids": [
+    {
+      "$oid": "68f2d16f179590d83c4f9b66"
+    },
+    {
+      "$oid": "68f2d16f179590d83c4f9b6b"
+    }
+  ],
+  "movie_ids": []
+},
+{
+  "_id": {
+    "$oid": "68f2d4b3f4c8c888367394c0"
+  },
+  "name": "John Wick",
+  "power_level": 85,
+  "debut_year": 2014,
+  "universe_id": {
+    "$oid": "68f2d0c4179590d83c4f9b2f"
+  },
+  "species_id": {
+    "$oid": "68f2ce77179590d83c4f9b17"
+  },
+  "equipment_ids": [
+    {
+      "$oid": "68f2d16f179590d83c4f9b3e"
+    },
+    {
+      "$oid": "68f2d16f179590d83c4f9b6c"
+    },
+    {
+      "$oid": "68f2d16f179590d83c4f9b6d"
+    }
+  ],
+  "movie_ids": [
+    {
+      "$oid": "68f2d1c5179590d83c4f9b88"
+    },
+    {
+      "$oid": "68f2d1c5179590d83c4f9b89"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68f2d4b4f4c8c888367394c1"
+  },
+  "name": "Saitama",
+  "power_level": 0,
+  "debut_year": 2012,
+  "universe_id": {
+    "$oid": "68f2d0c4179590d83c4f9b30"
+  },
+  "species_id": {
+    "$oid": "68f2ce77179590d83c4f9b17"
+  },
+  "equipment_ids": [
+    {
+      "$oid": "68f2d16f179590d83c4f9b57"
+    },
+    {
+      "$oid": "68f2d16f179590d83c4f9b6e"
+    },
+    {
+      "$oid": "68f2d16f179590d83c4f9b6f"
+    }
+  ],
+  "movie_ids": [
+    {
+      "$oid": "68f2d1c5179590d83c4f9b8a"
+    }
+  ]
+}]

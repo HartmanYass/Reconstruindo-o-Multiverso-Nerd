@@ -1,0 +1,330 @@
+[{
+  "_id": {
+    "$oid": "68f2cf18179590d83c4f9b18"
+  },
+  "name": "Blaster"
+},
+{
+  "_id": {
+    "$oid": "68f2cf18179590d83c4f9b19"
+  },
+  "name": "Leadership"
+},
+{
+  "_id": {
+    "$oid": "68f2d16f179590d83c4f9b3b"
+  },
+  "name": "blades of chaos"
+},
+{
+  "_id": {
+    "$oid": "68f2d16f179590d83c4f9b3c"
+  },
+  "name": "leviathan axe"
+},
+{
+  "_id": {
+    "$oid": "68f2d16f179590d83c4f9b3d"
+  },
+  "name": "shield"
+},
+{
+  "_id": {
+    "$oid": "68f2d16f179590d83c4f9b3e"
+  },
+  "name": "guns"
+},
+{
+  "_id": {
+    "$oid": "68f2d16f179590d83c4f9b3f"
+  },
+  "name": "backpack"
+},
+{
+  "_id": {
+    "$oid": "68f2d16f179590d83c4f9b40"
+  },
+  "name": "climbing axe"
+},
+{
+  "_id": {
+    "$oid": "68f2d16f179590d83c4f9b41"
+  },
+  "name": "silver sword"
+},
+{
+  "_id": {
+    "$oid": "68f2d16f179590d83c4f9b42"
+  },
+  "name": "steel sword"
+},
+{
+  "_id": {
+    "$oid": "68f2d16f179590d83c4f9b43"
+  },
+  "name": "kunai"
+},
+{
+  "_id": {
+    "$oid": "68f2d16f179590d83c4f9b44"
+  },
+  "name": "chakra cloak"
+},
+{
+  "_id": {
+    "$oid": "68f2d16f179590d83c4f9b45"
+  },
+  "name": "rasengan"
+},
+{
+  "_id": {
+    "$oid": "68f2d16f179590d83c4f9b46"
+  },
+  "name": "power pole"
+},
+{
+  "_id": {
+    "$oid": "68f2d16f179590d83c4f9b47"
+  },
+  "name": "nimbus cloud"
+},
+{
+  "_id": {
+    "$oid": "68f2d16f179590d83c4f9b48"
+  },
+  "name": "blaster"
+},
+{
+  "_id": {
+    "$oid": "68f2d16f179590d83c4f9b49"
+  },
+  "name": "leadership"
+},
+{
+  "_id": {
+    "$oid": "68f2d16f179590d83c4f9b4a"
+  },
+  "name": "ion blaster"
+},
+{
+  "_id": {
+    "$oid": "68f2d16f179590d83c4f9b4b"
+  },
+  "name": "energy axe"
+},
+{
+  "_id": {
+    "$oid": "68f2d16f179590d83c4f9b4c"
+  },
+  "name": "pokeballs"
+},
+{
+  "_id": {
+    "$oid": "68f2d16f179590d83c4f9b4d"
+  },
+  "name": "hat"
+},
+{
+  "_id": {
+    "$oid": "68f2d16f179590d83c4f9b4e"
+  },
+  "name": "speed"
+},
+{
+  "_id": {
+    "$oid": "68f2d16f179590d83c4f9b4f"
+  },
+  "name": "chaos emeralds"
+},
+{
+  "_id": {
+    "$oid": "68f2d16f179590d83c4f9b50"
+  },
+  "name": "master sword"
+},
+{
+  "_id": {
+    "$oid": "68f2d16f179590d83c4f9b51"
+  },
+  "name": "bow"
+},
+{
+  "_id": {
+    "$oid": "68f2d16f179590d83c4f9b52"
+  },
+  "name": "power suit"
+},
+{
+  "_id": {
+    "$oid": "68f2d16f179590d83c4f9b53"
+  },
+  "name": "arm cannon"
+},
+{
+  "_id": {
+    "$oid": "68f2d16f179590d83c4f9b54"
+  },
+  "name": "morph ball"
+},
+{
+  "_id": {
+    "$oid": "68f2d16f179590d83c4f9b55"
+  },
+  "name": "hidden blades"
+},
+{
+  "_id": {
+    "$oid": "68f2d16f179590d83c4f9b56"
+  },
+  "name": "sword"
+},
+{
+  "_id": {
+    "$oid": "68f2d16f179590d83c4f9b57"
+  },
+  "name": "cape"
+},
+{
+  "_id": {
+    "$oid": "68f2d16f179590d83c4f9b58"
+  },
+  "name": "portal gun"
+},
+{
+  "_id": {
+    "$oid": "68f2d16f179590d83c4f9b59"
+  },
+  "name": "flask"
+},
+{
+  "_id": {
+    "$oid": "68f2d16f179590d83c4f9b5a"
+  },
+  "name": "nervous energy"
+},
+{
+  "_id": {
+    "$oid": "68f2d16f179590d83c4f9b5b"
+  },
+  "name": "spear"
+},
+{
+  "_id": {
+    "$oid": "68f2d16f179590d83c4f9b5c"
+  },
+  "name": "focus device"
+},
+{
+  "_id": {
+    "$oid": "68f2d16f179590d83c4f9b5d"
+  },
+  "name": "buster sword"
+},
+{
+  "_id": {
+    "$oid": "68f2d16f179590d83c4f9b5e"
+  },
+  "name": "materia"
+},
+{
+  "_id": {
+    "$oid": "68f2d16f179590d83c4f9b5f"
+  },
+  "name": "knife"
+},
+{
+  "_id": {
+    "$oid": "68f2d16f179590d83c4f9b60"
+  },
+  "name": "revolver"
+},
+{
+  "_id": {
+    "$oid": "68f2d16f179590d83c4f9b61"
+  },
+  "name": "immunity"
+},
+{
+  "_id": {
+    "$oid": "68f2d16f179590d83c4f9b62"
+  },
+  "name": "rifle"
+},
+{
+  "_id": {
+    "$oid": "68f2d16f179590d83c4f9b63"
+  },
+  "name": "brutal strength"
+},
+{
+  "_id": {
+    "$oid": "68f2d16f179590d83c4f9b64"
+  },
+  "name": "lightsaber"
+},
+{
+  "_id": {
+    "$oid": "68f2d16f179590d83c4f9b65"
+  },
+  "name": "force wisdom"
+},
+{
+  "_id": {
+    "$oid": "68f2d16f179590d83c4f9b66"
+  },
+  "name": "armor"
+},
+{
+  "_id": {
+    "$oid": "68f2d16f179590d83c4f9b67"
+  },
+  "name": "hunger"
+},
+{
+  "_id": {
+    "$oid": "68f2d16f179590d83c4f9b68"
+  },
+  "name": "lasso of truth"
+},
+{
+  "_id": {
+    "$oid": "68f2d16f179590d83c4f9b69"
+  },
+  "name": "bracelets"
+},
+{
+  "_id": {
+    "$oid": "68f2d16f179590d83c4f9b6a"
+  },
+  "name": "infinity gauntlet"
+},
+{
+  "_id": {
+    "$oid": "68f2d16f179590d83c4f9b6b"
+  },
+  "name": "mega buster"
+},
+{
+  "_id": {
+    "$oid": "68f2d16f179590d83c4f9b6c"
+  },
+  "name": "dog"
+},
+{
+  "_id": {
+    "$oid": "68f2d16f179590d83c4f9b6d"
+  },
+  "name": "suit"
+},
+{
+  "_id": {
+    "$oid": "68f2d16f179590d83c4f9b6e"
+  },
+  "name": "fists"
+},
+{
+  "_id": {
+    "$oid": "68f2d16f179590d83c4f9b6f"
+  },
+  "name": "cape"
+}]

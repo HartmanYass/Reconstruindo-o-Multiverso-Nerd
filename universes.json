@@ -1,0 +1,182 @@
+[{
+  "_id": {
+    "$oid": "68f2cd7c024cab704b401c7b"
+  },
+  "name": "Star Wars",
+  "type": "Filmes"
+},
+{
+  "_id": {
+    "$oid": "68f2cd7c024cab704b401c7c"
+  },
+  "name": "Transformers",
+  "type": "Filmes"
+},
+{
+  "_id": {
+    "$oid": "68f2cd7c024cab704b401c7d"
+  },
+  "name": "Pokemon",
+  "type": "Animes"
+},
+{
+  "_id": {
+    "$oid": "68f2cd7c024cab704b401c7e"
+  },
+  "name": "SEGA Games",
+  "type": "Games"
+},
+{
+  "_id": {
+    "$oid": "68f2cd7c024cab704b401c7f"
+  },
+  "name": "Legend of Zelda",
+  "type": "Games"
+},
+{
+  "_id": {
+    "$oid": "68f2d0c4179590d83c4f9b1c"
+  },
+  "name": "God of War",
+  "type": "Games"
+},
+{
+  "_id": {
+    "$oid": "68f2d0c4179590d83c4f9b1d"
+  },
+  "name": "Tomb Raider",
+  "type": "Games"
+},
+{
+  "_id": {
+    "$oid": "68f2d0c4179590d83c4f9b1e"
+  },
+  "name": "The Witcher",
+  "type": "Séries / Games"
+},
+{
+  "_id": {
+    "$oid": "68f2d0c4179590d83c4f9b1f"
+  },
+  "name": "Naruto Shippuden",
+  "type": "Animes"
+},
+{
+  "_id": {
+    "$oid": "68f2d0c4179590d83c4f9b20"
+  },
+  "name": "Dragon Ball Z",
+  "type": "Animes"
+},
+{
+  "_id": {
+    "$oid": "68f2d0c4179590d83c4f9b21"
+  },
+  "name": "Star Wars",
+  "type": "Filmes"
+},
+{
+  "_id": {
+    "$oid": "68f2d0c4179590d83c4f9b22"
+  },
+  "name": "Transformers",
+  "type": "Filmes"
+},
+{
+  "_id": {
+    "$oid": "68f2d0c4179590d83c4f9b23"
+  },
+  "name": "Pokemon",
+  "type": "Animes"
+},
+{
+  "_id": {
+    "$oid": "68f2d0c4179590d83c4f9b24"
+  },
+  "name": "SEGA Games",
+  "type": "Games"
+},
+{
+  "_id": {
+    "$oid": "68f2d0c4179590d83c4f9b25"
+  },
+  "name": "Legend of Zelda",
+  "type": "Games"
+},
+{
+  "_id": {
+    "$oid": "68f2d0c4179590d83c4f9b26"
+  },
+  "name": "Metroid",
+  "type": "Games"
+},
+{
+  "_id": {
+    "$oid": "68f2d0c4179590d83c4f9b27"
+  },
+  "name": "Assassin’s Creed",
+  "type": "Games / Filmes"
+},
+{
+  "_id": {
+    "$oid": "68f2d0c4179590d83c4f9b28"
+  },
+  "name": "Rick and Morty",
+  "type": "Séries"
+},
+{
+  "_id": {
+    "$oid": "68f2d0c4179590d83c4f9b29"
+  },
+  "name": "Horizon Zero Dawn",
+  "type": "Games"
+},
+{
+  "_id": {
+    "$oid": "68f2d0c4179590d83c4f9b2a"
+  },
+  "name": "Final Fantasy VII",
+  "type": "Games / Filmes"
+},
+{
+  "_id": {
+    "$oid": "68f2d0c4179590d83c4f9b2b"
+  },
+  "name": "The Last of Us",
+  "type": "Games / Séries"
+},
+{
+  "_id": {
+    "$oid": "68f2d0c4179590d83c4f9b2c"
+  },
+  "name": "Marvel",
+  "type": "HQs / Filmes"
+},
+{
+  "_id": {
+    "$oid": "68f2d0c4179590d83c4f9b2d"
+  },
+  "name": "DC Comics",
+  "type": "HQs / Filmes"
+},
+{
+  "_id": {
+    "$oid": "68f2d0c4179590d83c4f9b2e"
+  },
+  "name": "Capcom Games",
+  "type": "Games"
+},
+{
+  "_id": {
+    "$oid": "68f2d0c4179590d83c4f9b2f"
+  },
+  "name": "John Wick Universe",
+  "type": "Filmes"
+},
+{
+  "_id": {
+    "$oid": "68f2d0c4179590d83c4f9b30"
+  },
+  "name": "One Punch Man",
+  "type": "Animes"
+}]
